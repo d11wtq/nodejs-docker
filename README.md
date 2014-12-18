@@ -3,7 +3,7 @@
 This is simply a Dockerfile for building a simple docker container that runs
 nodejs apps.
 
-> Current Node.js version: 0.10.28
+> Current Node.js version: 0.10.34
 
 The container does not contain anything else.
 

@@ -5,7 +5,7 @@
 FROM       d11wtq/ubuntu:14.04
 MAINTAINER Chris Corbyn <chris@w3style.co.uk>
 
-ENV NODE_VER 0.10.34
+ENV NODE_VER 0.12.7
 ENV NODE_PKG node-v$NODE_VER-linux-x64.tar.gz
 ENV NODE_URL http://nodejs.org/dist/v$NODE_VER/$NODE_PKG
 
